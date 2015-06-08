@@ -1,5 +1,6 @@
 name: pydata_apps
 dependencies:
+  - numba
   - blaze
   - bokeh
   - pandas
